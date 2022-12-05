@@ -1,6 +1,6 @@
 # Azure OpenAI Docs Samples
 
-Learn how to use Azure OpenAI powerful language models including the GPT-3, Codex and Embeddings model series for content generation, summarization, semantic search, and natural language to code translation. This repo provides sample code/resources which correspond with our [official documentation](https://learn.microsoft.com/azure/cognitive-services/openai/).
+Learn how to use Azure OpenAI's powerful language models including the GPT-3, Codex and Embeddings model series for content generation, summarization, semantic search, and natural language to code translation. This repo provides sample code/resources which correspond with our [official documentation](https://learn.microsoft.com/azure/cognitive-services/openai/).
 
 ## Getting Started
 
